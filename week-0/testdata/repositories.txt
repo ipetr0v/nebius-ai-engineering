@@ -1,0 +1,28 @@
+# Repositories for testing
+# One URL per line, comments start with #
+
+# Small, well-documented Python libraries
+https://github.com/psf/requests
+https://github.com/pallets/flask
+
+# Large, complex projects
+https://github.com/kubernetes/kubernetes
+https://github.com/tensorflow/tensorflow
+
+# Monorepo / multi-language
+https://github.com/vercel/next.js
+
+# Rust project
+https://github.com/BurntSushi/ripgrep
+
+# Go project
+https://github.com/junegunn/fzf
+
+# Minimal / small repo
+https://github.com/kelseyhightower/nocode
+
+# Data science
+https://github.com/pandas-dev/pandas
+
+# Very large C project
+https://github.com/torvalds/linux

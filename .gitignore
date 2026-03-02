@@ -2,6 +2,7 @@
 .env
 *.local
 *.local.*
+*.zip
 
 # ── Python ──
 __pycache__/
